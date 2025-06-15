@@ -1,0 +1,11 @@
+{
+  "name": "advanceproject",
+  "version": "1.0.0",
+  "description": "Backend lesarning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satyam Rajawat",
+  "license": "ISC"
+}
