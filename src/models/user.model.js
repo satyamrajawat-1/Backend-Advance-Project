@@ -20,13 +20,13 @@ const userSchema = new Schema (
         lowercase : true,
         trim : true,
       }, 
-      fullname : {
+      fullName : {
         type : String,
         required : true,
         trim : true,
         index :true
       },
-      avtar : {
+      avatar : {
         type : String,
         required : true,
       },
